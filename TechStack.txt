@@ -1,0 +1,100 @@
+As an information technologist, it is important for me to recognise 
+and use my tech stack!! with 
+
+[
+HTML,
+CSS,
+PHP
+[JS[React,Express,Node]],
+database[MYSQL,MongoDb,Cloudfare]
+]
+
+
+
+Dynamic Web Applications!
+
+
+PHP CRUD 2022
+{"https://www.youtube.com/watch?v=ExW0bYNMTlo"}
+
+[
+Bootstrap
+MySQL
+PHP
+]
+
+
+MERN CRUD 2022
+{"https://www.youtube.com/watch?v=re3OIOr9dJI"}
+
+[
+MongoDb, MySQL
+Express
+React
+Node
+
+]
+
+Project Ideas
+{}
+
+
+A Tech Stack is the combination of FRONTEND, API ,BACKEND.
+
+What is a tech stack?
+
+A tech stack is defined as the set of technologies an organization uses to build 
+a web or mobile application. 
+It is a combination of programming languages,frameworks, libraries, patterns, 
+servers, UI/UX solutions, software, and tools used by its developers.
+
+POPULAR tech stack[https://stackshare.io/]
+
+standardized envinroment with Docker!
+
+Web Tech Stack 
+H.P.B.I.F -[
+HTML,
+Petit-vue,=JS
+Bootstrap, =CSS
+ionic,=APP dev
+Firebase=Backend,Authentication
+]
+
+M.E.A.N -[ 
+MongoDb, Express, Angular, Node
+]
+
+
+M.E.R.N -[ 
+MongoDB, Express, React , Node
+]
+
+MERN Stack, a combination of technologies used to craft premium web apps. 
+Web apps are developed using multiple technologies more likely to say frameworks, libraries, databases and more. 
+The MERN stack is a JavaScript stack used for the smooth flow of the development process. 
+MERN consists of different open-source components: MongoDB, Express, React, and Node.js. 
+All the components provide the end-to-end framework support for developers to work in.
+
+
+
+
+Benefits Of Full Stack:
+
+Still confused about whom to hire! Check the below-mentioned advantages of having Full Stack Development:
+
+-Easy Switching between the front end and back end development based on the requirement of the project.
+
+-Look after the entire design structure and work on any level as required during development.
+
+-Cost Saving by hiring a specialized full stack developer rather than hiring front end and back end specifically.
+
+-Easy to take ownership of design & implementation on a site
+
+-Easy to upgrade with new technology and tools faster than someone specializing only in the front end or back end technology.
+
+-Comprehensive work for individual Full Stack developer gives the flexibility to move from task to task according to the need of the project.
+
+-A complete solution to problems, go to the root of a problem without just focusing on solutions.
+
+-An ideal option for small & medium enterprises as the complex website requirement can be broken into segments to save time.
